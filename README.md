@@ -17,7 +17,7 @@ Load given data with Pandas and stored them in a dataframe instead of the given 
 ## Section 2: Main Functions
 Contains the main functions for this task. 
 
-- Main
+- main
     - Controls the logic overall logic flow and user experience for the program 
 
 - search_by_keyword
