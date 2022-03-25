@@ -11,7 +11,7 @@ Imported python libraries
 <br/><br/>
 
 ## Section 1: Load and Initialise data 
-Loaded given data with Pandas and stored them in a dataframe instead of the given data structure. Manipulated the data for querying functions in later sections. 
+Load given data with Pandas and stored them in a dataframe instead of the given data structure. Manipulated the data for querying functions in later sections. 
 <br/><br/>
 
 ## Section 2: Main Functions
