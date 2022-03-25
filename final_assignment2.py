@@ -1,7 +1,7 @@
 ##################################################################################
 # RE1016 Engineering Computation Assignment 2 - Computational Thinking with Python
 # Done By: Chang Dao Zheng  
-# Matric Number: U2121464H  
+# Matric Number:  
 # Latest Revision: 25th Mar 2022
 ##################################################################################
 
