@@ -1,5 +1,3 @@
-# RE1016 Engineering Computation Assignment 2 - Computational Thinking with Python 
-
 ## Section 0: Import External Modules 
 Imported python libraries 
 - PIL 
